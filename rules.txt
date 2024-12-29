@@ -1,0 +1,3 @@
+>>girilen kelime uzunluğunu kontrol et 5 harfli olacak
+>>listede olmayan bir kelime ile tahmin yapılamaz
+>>belirli hakkı olacak(8)
